@@ -1,5 +1,5 @@
 steps to install the application
 -----------------------------------
-clone the source code
-run npm install
-npm start
+1. clone the source code
+2. run npm install
+3 npm start
